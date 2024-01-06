@@ -1,3 +1,12 @@
+For Login use:
+email: JohnDoe@gmail.com 
+password: binbag
+
+For Reimbursement Form Click on the Reimbursement Button.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
