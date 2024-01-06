@@ -1,8 +1,8 @@
-For Login use:
-email: JohnDoe@gmail.com 
-password: binbag
+-For Login use:
+-email: JohnDoe@gmail.com 
+-password: binbag
 
-For Reimbursement Form Click on the Reimbursement Button.
+-For Reimbursement Form Click on the Reimbursement Button.
 
 
 
